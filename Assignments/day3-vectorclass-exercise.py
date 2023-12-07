@@ -83,11 +83,11 @@ class Vector:
         return vector_a * other
     
 vector1 = Vector(1, 2, 3)
-print(str(vector1))
 vector2 = Vector(4, 5, 6)
 vector3 = Vector(2, 4, 6, 8, 7, 6, 5, 4)
 vector4 = Vector(1, 3, 5, 6, 7, 8, 4, 5)
 
+print(str(vector1))
 # resultV = vector1 + vector2
 # print(f"{vector1} + {vector2} = {resultV}")
 # resultV2 = vector3 + vector4
