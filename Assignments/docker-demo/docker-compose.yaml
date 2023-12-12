@@ -1,0 +1,11 @@
+services:
+  db: # Name of container
+    image: postgres:latest # Image to load into container
+    environment:
+      POSTGRES_PASSWORD: password # Password for database
+      POSTGRES_USER: postgres # Main user
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./local_data:/var/lib/postgresql/data # Maps local folder to container data. Not required but good
+      # IF REPO MAKE SURE THIS IS GITIGNORE
