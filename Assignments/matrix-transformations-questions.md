@@ -37,7 +37,15 @@
     [0  0.5]
     [-1   0]
 
-5. Inverse of D = 
+5. 
+[1 -1 -2] * [2   0]
+[2  1  3]   [-2 -2]
+            [1   3]
+
+    [2 -4]
+    [5  7]
+
+6. Inverse of D = 
 [4 7]
 [2 6]
 
@@ -48,10 +56,10 @@ D^-1 = 1/(4*6 - 7*2) i.e. 1/10 *
 [.6 -.7]
 [-.2 .4]
 
-6. What is the inverse of the 7x7 identity matrix?
-    The inverse of every identity matrix is itself.
+7. What is the inverse of the 7x7 identity matrix?
+    The inverse of any identity matrix is itself.
 
-7. Determinant of E = 
+8. Determinant of E = 
 [3 2 3]
 [4 3 4]
 [5 4 5]
@@ -61,7 +69,7 @@ D^-1 = 1/(4*6 - 7*2) i.e. 1/10 *
             = -3 + 3
             = 0
 
-8. Create a matrix that is not invertible.
+9. Create a matrix that is not invertible.
     [1 2 3 4]
     [5 6 7 8]
 
