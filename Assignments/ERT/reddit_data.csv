@@ -1,0 +1,28 @@
+created_utc,title,ups,upvote_ratio,num_comments
+2023-12-13 18:26:39,[D] What are 2023's top innovations in ML/AI outside of LLM stuff?,369,0.99,136
+2023-12-17 16:00:19,[D] Simple Questions Thread,4,0.75,22
+2023-12-20 13:59:53,[D] Mistral received funding and is worth billions now. Are open source LLMs the future?,395,0.96,141
+2023-12-20 19:48:50,[D] Are medium-sized LLMs running on-device on consumer hardware a realistic expectation in 2024?,60,0.92,43
+2023-12-21 00:30:33,Why Le Cam equation is not popular but very useful ? [R],11,0.82,3
+2023-12-21 01:34:39,[P] I built an open SotA image tagging model to do what CLIP won't,147,0.95,44
+2023-12-21 03:27:57,[R] Experiments fine-tuning Mamba 130m on the SQuAD Question Answering dataset,26,1.0,5
+2023-12-21 06:21:33,[P] Emu2: A Gemini-like open-source 37B Multimodal Model,10,0.86,1
+2023-12-21 06:32:17,[R] How to test hypotheses about optimal softmax temperature for Transformer model,2,0.75,0
+2023-12-21 08:01:52,[R] Efficient Large Language Models: A Survey,7,1.0,1
+2023-12-21 08:09:16,[R] The Efficiency Spectrum of Large Language Models: An Algorithmic Survey,2,0.67,0
+2023-12-21 08:58:28,Meta AI Residency Interview Question [D],22,0.81,23
+2023-12-21 10:36:41,[D]Multiple Labels Classification using LLM,1,0.67,1
+2023-12-21 12:28:13,[D] PyTorch Cloud IDE - need clarification,0,0.5,1
+2023-12-21 13:08:10,Does anyone here work with SELFIES in deep learning in Chemistry [D]?,0,0.5,0
+2023-12-21 13:37:33,[D] Removed 50% of the weights from a top leaderboard LLM without negatively impacting the evals,19,0.58,29
+2023-12-21 13:42:43,Opinion on X2Vec Papers[D],4,0.75,9
+2023-12-21 14:01:31,[P] Scaling Challenges with Dashboard Plotly vs Tableau vs bunjs for High-Volume Data and User Interaction,1,0.67,0
+2023-12-21 14:25:19,[D] What's the Current State-of-the-Art Model for Predicting Big Five Personality Traits from Text?,0,0.44,2
+2023-12-21 14:33:28,What is the optimal approach when training LLMs? [Discussion],4,1.0,1
+2023-12-21 14:40:14,"[D] Learning Path for Understanding the Construction of ""Stable Diffusion"" AI Model",0,0.4,5
+2023-12-21 14:41:32,"Tailored coffee recommendations, powered by data science and machine learning [P]",0,0.4,0
+2023-12-21 15:54:54,"[P] the Decimator, or how to plot a lot of points",12,0.88,0
+2023-12-21 17:01:27,[D] LAION datasets,1,1.0,0
+2023-12-21 17:18:33,how do I find my input? [D] [P],0,0.33,1
+2023-12-21 17:25:53,[D] How to Use CogVLM in a Python Script?,2,1.0,0
+2023-12-21 18:21:28,"[D] Deep dive into the MMLU (""Are you smarter than an LLM?"")",3,1.0,3
